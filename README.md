@@ -1,7 +1,7 @@
 # 👋 Welcome to My Digital Space!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Full-Stack+Developer+🚀;React+%7C+Next.js+%7C+React+Native+%7C+Flutter;Node.js+%7C+Java+%7C+GraphQL+%7C+REST+APIs;AWS+%7C+Azure+%7C+Docker+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Engineer+🚀;React+%7C+Next.js+%7C+React+Native+%7C+Flutter;Node.js+%7C+Java+%7C+GraphQL+%7C+REST+APIs;AWS+%7C+Azure+%7C+Docker+%7C+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -57,41 +57,6 @@ With a strong foundation in modern web and mobile frameworks, coupled with robus
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/techhoney15">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techhoney15&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techhoney15&layout=compact&theme=radical" alt="Top Languages"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techhoney15&theme=radical" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<a href="https://github.com/techhoney15/React_Native-Components-and-Modules">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techhoney15&repo=React_Native-Components-and-Modules&theme=radical" />
-</a>
-
-<a href="https://github.com/techhoney15/React_Native_Card_Tinder_Animations">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techhoney15&repo=React_Native_Card_Tinder_Animations&theme=radical" />
-</a>
-
-<a href="https://github.com/techhoney15/React_Native_Chat_Firebase_Firestore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techhoney15&repo=React_Native_Chat_Firebase_Firestore&theme=radical" />
-</a>
-
-<a href="https://github.com/techhoney15/RJ-React-JS-Contact-App-Practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techhoney15&repo=RJ-React-JS-Contact-App-Practice&theme=radical" />
-</a>
-
----
-
 ## 🎓 What I'm Currently Doing
 
 - 🚀 Building scalable full-stack applications with modern tech stacks
@@ -131,17 +96,7 @@ With a strong foundation in modern web and mobile frameworks, coupled with robus
 - CI/CD pipelines
 - Infrastructure as Code
 
----
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <a href="https://github.com/techhoney15">
-    <img src="https://activity-graph.herokuapp.com/graph?username=techhoney15&theme=radical&hide_border=true" alt="Activity Graph"/>
-  </a>
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
