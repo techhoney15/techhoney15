@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-I'm **Honey Kumar**, a passionate **Full-Stack Developer** from Chandigarh, India, dedicated to building scalable, user-centric applications. I love transforming ideas into elegant solutions across web, mobile, and emerging technologies.
+I'm **Honey**, a passionate **Engineer** from India, dedicated to building scalable, user-centric applications. I love transforming ideas into elegant solutions across web, mobile, and emerging technologies.
 
 With a strong foundation in modern web and mobile frameworks, coupled with robust backend architecture and cloud expertise, I'm always pushing the boundaries of what's possible in software development.
 
