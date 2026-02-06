@@ -157,7 +157,7 @@ Feel free to explore my repositories, fork projects, and reach out for collabora
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=techhoney15&color=blueviolet&style=flat-square)
 
-**Made with ❤️ by Honey Kumar**
+**Made with ❤️ by Honey**
 
 </div>
 
