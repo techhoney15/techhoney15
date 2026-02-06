@@ -142,10 +142,31 @@ Key principles I follow:
 ## 🎁 Open to Opportunities
 
 I'm actively looking for:
+
+### 💼 Professional
 - 🔖 **Freelance Projects** - Web and Mobile Development
-- 👥 **Collaboration** - Open-source contributions
 - 💼 **Full-time Roles** - Full-stack and specialized positions
+- 👥 **Collaboration** - Open-source contributions
 - 📚 **Learning Partnerships** - Growing together with the community
+
+### 💡 New Ideas & Innovation
+- 🚀 **Startup Concepts** - Building innovative solutions from scratch
+- 🎯 **MVP Development** - Turning ideas into minimum viable products
+- 🔄 **Product Development** - Scaling solutions to production
+- 📊 **Tech Strategy** - Advising on technology stack and architecture
+
+### 💰 Entrepreneurship & Business
+- 🤝 **Co-founder Opportunities** - Building companies with ambitious vision
+- 💻 **SaaS Products** - Creating Software-as-a-Service solutions
+- 🌐 **Digital Solutions** - Building digital products for market needs
+- 📈 **Business Growth** - Leveraging tech to scale businesses
+- 🔗 **Strategic Partnerships** - Collaborating with like-minded entrepreneurs
+
+### 🎨 Creative Projects
+- 🎬 **Content Creation** - Tech blogs, tutorials, and documentation
+- 🎓 **Educational Content** - Building courses and learning resources
+- 📝 **Technical Writing** - Contributing articles and guides
+- 🎤 **Speaking Engagements** - Sharing knowledge at conferences and meetups
 
 ---
 
