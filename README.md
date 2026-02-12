@@ -57,6 +57,14 @@ With a strong foundation in modern web and mobile frameworks, coupled with robus
 
 ---
 
+## 🌟 My Portfolio
+
+### **👉 [Visit My Portfolio - techhoney.netlify.app](https://techhoney.netlify.app/) 👈**
+
+Explore my work, case studies, and detailed project showcases on my personal portfolio website!
+
+---
+
 ## 🎓 What I'm Currently Doing
 
 - 🚀 Building scalable full-stack applications with modern tech stacks
